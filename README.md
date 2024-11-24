@@ -52,7 +52,7 @@ The project demonstrated a robust predictive model with high accuracy for seizur
 1. Amin, H.U.; Yusoff, M.Z.; Ahmad, R.F. A novel approach based on wavelet analysis and arithmetic coding for automated detection and diagnosis of epileptic seizure in EEG signals using machine learning techniques. Biomed. Signal Process. Control 2020, 56, 101707. [Google Scholar] [CrossRef]
 2.  Harpale, V.; Bairagi, V. An adaptive method for feature selection and extraction for classification of epileptic EEG signal in significant states. J. King Saud Univ.-Comput. Inf. Sci. 2021, 33, 668–676. [Google Scholar] [CrossRef]
 3. Pattnaik, S.; Rout, N.; Sabut, S. Machine learning approach for epileptic seizure detection using the tunable-Q wavelet transform based time–frequency features. Int. J. Inf. Technol. 2022, 14, 3495–3505.[Google Scholar] [CrossRef]
-4. > Hussain, W.; Qbal, M.S.I.; Xiang, J.; Wang, B.; Niu, Y.; Gao, Y.; Wang, X.; Sun, J.; Zhan, Q.; Cao, R.; et al. Epileptic Seizure Detection With Permutation Fuzzy Entropy Using Robust Machine Learning Techniques. IEEE Access 2019,7, 182238–182258. [Google Scholar] [CrossRef]
+4.  Hussain, W.; Qbal, M.S.I.; Xiang, J.; Wang, B.; Niu, Y.; Gao, Y.; Wang, X.; Sun, J.; Zhan, Q.; Cao, R.; et al. Epileptic Seizure Detection With Permutation Fuzzy Entropy Using Robust Machine Learning Techniques. IEEE Access 2019,7, 182238–182258. [Google Scholar] [CrossRef]
 
 
 
