@@ -8,11 +8,11 @@ Background
 Epilepsy affects millions worldwide, characterized by unpredictable seizures that significantly impact daily life. Accurate seizure prediction has remained a challenge due to the complex interplay of neurological, environmental, and physiological factors. However, recent advancements in data collection (e.g., EEG, wearables) and analytics present an opportunity to revolutionize epilepsy care.
 
 ## Features
--> Utilizes cutting-edge deep learning models like CNNs and LSTMs for enhanced seizure prediction.
--> Offers a modular framework for seamless integration and deployment in real-world applications.
--> Highly scalable architecture, adaptable to growing datasets and additional features.
--> Optimized algorithms designed to minimize computational overhead and processing time.
--> Incorporates a specialized interface for alerts and patient-specific data analysis, leveraging structured JSON data for flexible communication.
+1. Utilizes cutting-edge deep learning models like CNNs and LSTMs for enhanced seizure prediction.
+2. Offers a modular framework for seamless integration and deployment in real-world applications.
+3. Highly scalable architecture, adaptable to growing datasets and additional features.
+4. Optimized algorithms designed to minimize computational overhead and processing time.
+5. Incorporates a specialized interface for alerts and patient-specific data analysis, leveraging structured JSON data for flexible communication.
 
 ## Requirements
 Operating System: A 64-bit operating system such as Windows 10 or Ubuntu (20.04 or later) to ensure compatibility with machine learning frameworks and analytics tools.
