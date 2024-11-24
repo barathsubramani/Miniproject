@@ -15,15 +15,15 @@ Epilepsy affects millions worldwide, characterized by unpredictable seizures tha
 5. Incorporates a specialized interface for alerts and patient-specific data analysis, leveraging structured JSON data for flexible communication.
 
 ## Requirements
-Operating System: A 64-bit operating system such as Windows 10 or Ubuntu (20.04 or later) to ensure compatibility with machine learning frameworks and analytics tools.
-Programming Environment: Python 3.7 or later for scripting and implementing the seizure prediction algorithms.
-Machine Learning Frameworks: Utilization of TensorFlow and PyTorch for building and training predictive models.
-Signal Processing Libraries: Libraries like SciPy and NumPy for preprocessing EEG signals and extracting features.
-Visualization Tools: Matplotlib and Seaborn for visualizing data trends and model performance.
-Version Control: Git is required for collaborative coding, version tracking, and repository management.
-Integrated Development Environment: Jupyter Notebook and PyCharm for coding, debugging, and conducting exploratory data analysis.
-Additional Dependencies: Includes pandas, scikit-learn, TensorFlow GPU (for accelerated computations), and MNE for handling and visualizing EEG data.
-Hardware Requirements:
+1. Operating System: A 64-bit operating system such as Windows 10 or Ubuntu (20.04 or later) to ensure compatibility with machine learning frameworks and analytics tools.
+2. Programming Environment: Python 3.7 or later for scripting and implementing the seizure prediction algorithms.
+3. Machine Learning Frameworks: Utilization of TensorFlow and PyTorch for building and training predictive models.
+4. Signal Processing Libraries: Libraries like SciPy and NumPy for preprocessing EEG signals and extracting features.
+5. Visualization Tools: Matplotlib and Seaborn for visualizing data trends and model performance.
+6. Version Control: Git is required for collaborative coding, version tracking, and repository management.
+7. Integrated Development Environment: Jupyter Notebook and PyCharm for coding, debugging, and conducting exploratory data analysis.
+8. Additional Dependencies: Includes pandas, scikit-learn, TensorFlow GPU (for accelerated computations), and MNE for handling and visualizing EEG data.
+9. Hardware Requirements:
 A GPU-compatible system (e.g., NVIDIA CUDA support) for training deep learning models.
 Wearable device or EEG recording hardware for real-time data acquisition.
 
